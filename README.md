@@ -1,5 +1,5 @@
 ### Namasthe Geleyare 👋 Madhu S Gowda here,
-<img src="https://drive.google.com/uc?export=view&id=1v25-YSN30Woe8AYSTIKSd62-zSmqgv94" align="right" style="width: 300px; max-width: 100%; height: 350px" title="Click to enlarge picture" />
+<img src="https://drive.google.com/uc?export=view&id=1VTGhXsQb1MZUYyn8PoAsSbRrGW3yR1AX" align="right" style="width: 300px; max-width: 100%; height: 350px" title="Click to enlarge picture" />
 
 <p align="Left"> <img src="https://github-readme-stats.vercel.app/api?username=MadhuS-1605&show_icons=true&theme=gotham" alt="madhusgowda" /></p>
 
