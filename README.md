@@ -40,11 +40,11 @@
   <img align="left" alt="Madhu's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 
-<a href="https://twitter.com/thenameismadhus">
+<a href="https://twitter.com/madhusgowda_">
   <img align="left" alt="Madhu S Gowda | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
-<a href="https://www.linkedin.com/in/madhu-s-1605/">
+<a href="https://www.linkedin.com/in/madhusgowda">
   <img align="left" alt="Madhu S Gowda's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
