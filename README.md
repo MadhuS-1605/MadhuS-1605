@@ -41,21 +41,21 @@
 </a>
 
 <a href="https://twitter.com/madhusgowda_">
-  <img align="left" alt="Madhu S Gowda | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Madhu S Gowda | Twitter" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/twitter.png" />
 </a>
 
 <a href="https://www.linkedin.com/in/madhusgowda">
-  <img align="left" alt="Madhu S Gowda's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Madhu S Gowda's LinkedIN" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/linkedin.png" />
 </a>
 
 <a href="https://www.youtube.com/c/MadhusGowda57">
   <img align="left" alt="Madhu S Gowda | Youtube" width="22px" src="https://github.com/hussainweb/hussainweb/blob/main/icons/youtube.png" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=madhusgowda)
+</br>
 </br>
 
-**Operating System's i use:**
+**Operating Systems I use:**
 </br>
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
